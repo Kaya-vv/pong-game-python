@@ -1,4 +1,4 @@
-# pong-game-python
+
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 <!--
@@ -34,7 +34,7 @@
 
 
 
-### Built With
+## Built With
 
 * [![python][python]][python-url]
 
